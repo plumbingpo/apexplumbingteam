@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apexplumbingteam.com/sitemap.xml
